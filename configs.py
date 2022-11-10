@@ -13,10 +13,11 @@ FIRST_YEAR_OP = [
         'Cybersecurity',
         'Digital Journalism',
         'IT Management',
-        'Industrial Automation',
+        'Mathematical and Computational science',
         'Media Technologies',
         'Software Engineering',
-        'Telecommunication Systems'
+        'Smart Technologies',
+        'IT Entrepreneurship'
     ]
 
 SECOND_YEAR_OP = [
@@ -26,9 +27,11 @@ SECOND_YEAR_OP = [
         'Digital Journalism',
         'IT Management',
         'Industrial Automation',
+        'Smart Technologies',
         'Media Technologies',
         'Software Engineering',
-        'Telecommunication Systems'
+        'Telecommunication Systems',
+        'IT Entrepreneurship'
     ]
 
 THIRD_YEAR_OP = [
@@ -43,4 +46,19 @@ THIRD_YEAR_OP = [
         'Telecommunication Systems'
     ]
 
+
+MFIRST_YEAR_OP = [
+        'Applied Data Analytics',
+        'Computational Sciences',
+        'Computer science and engineering',
+        'Project management',
+        'Digital public administration and services'
+    ]
+
+
+MSECOND_YEAR_OP = [
+        'Applied Data Analytics',
+        'Computational Sciences',
+        'Project management'
+    ]
 
